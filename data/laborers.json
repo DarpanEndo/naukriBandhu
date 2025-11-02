@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "arjun1234",
+    "firstName": "Arjun",
+    "aadharLast4": "1234",
+    "mobileNumber": "9876543210"
+  },
+  {
+    "userId": "bhavna5678",
+    "firstName": "Bhavna",
+    "aadharLast4": "5678",
+    "mobileNumber": "9876543211"
+  },
+  {
+    "userId": "chandan9012",
+    "firstName": "Chandan",
+    "aadharLast4": "9012",
+    "mobileNumber": "9876543212"
+  }
+]

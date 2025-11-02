@@ -1,0 +1,63 @@
+[
+  {
+    "jobId": "job_001",
+    "employer": "Prabhas Constructions",
+    "location": "Yelahanka",
+    "date": "2025-11-05",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "wageMin": 638,
+    "wageMax": 1140,
+    "wageBonus": 50,
+    "slotsRequired": 2,
+    "bookedBy": [],
+    "workType": "Construction",
+    "requirements": ["Physical labor", "Basic tools knowledge"],
+    "address": "Near Yelahanka New Town Metro Station"
+  },
+  {
+    "jobId": "job_002",
+    "employer": "Tatas Logistics",
+    "location": "Jalahalli",
+    "date": "2025-11-05",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "wage": {
+      "min": 638,
+      "max": 1140,
+      "bonus": 75
+    },
+    "slotsRequired": 1,
+    "bookedBy": []
+  },
+  {
+    "jobId": "job_003",
+    "employer": "Prestige Group",
+    "location": "Marathahalli",
+    "date": "2025-11-06",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "wage": {
+      "min": 638,
+      "max": 1140,
+      "bonus": 60
+    },
+    "slotsRequired": 3,
+    "bookedBy": []
+  },
+  {
+    "jobId": "job_004",
+    "employer": "Prabhas Constructions",
+    "location": "Yelahanka",
+    "date": "2025-11-07",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "wage": {
+      "min": 638,
+      "max": 1140,
+      "bonus": 50
+    },
+    "slotsRequired": 2,
+    "bookedBy": []
+  }
+]
